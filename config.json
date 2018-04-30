@@ -1,0 +1,8 @@
+{
+	"AskBeforeBackup": false,
+	"OutputPath": "G:\\GitHub\\SimpleBackupTask\\tests",
+	"Folders":[
+		"G:\\GitHub\\HomeBot",
+		"G:\\GitHub\\MaratonaBot"
+	]
+}
