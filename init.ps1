@@ -22,7 +22,6 @@ if(Compare-Object -ReferenceObject $(Get-Content $currentFile) -DifferenceObject
     write-host "Updating files..."
     Remove-Item $currentFile
     Rename-Item $updatedFile $currentFile
-    exit
 }
 else{
     Write-Host "No updates available!"
